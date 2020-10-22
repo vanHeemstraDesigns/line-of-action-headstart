@@ -96,8 +96,23 @@ The best dynamic poses involve a combination of both lateral and vertical positi
 
 In addition to rotating both "cans", you can also adjust their relative proximity to one another.
 
+[ Image attached https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/100/cans_proportions1.jpg ]
+
+[ Image attached https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/100/cans_proportions2.jpg ]
+
+### Drawing Different Body Types
+
+Varying the size of each "can", as shown in the figure below, will also yield uniquely proportioned character body shapes. Muscular characters may have a larger "can" representing their shoulders and a smaller "can" for their pelvis.
+
 [ Image attached  ]
 
+Heavier characters would have the opposite configuration.
+
+[ Image attched  ]
+
+A shapely woman will have their shoulder and hips at 45 degree angles counter to each other, with the hips larger than the shoulders, as shown below:
+
+[ Image attched  ]
 
 
 
