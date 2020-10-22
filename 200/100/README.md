@@ -108,7 +108,7 @@ Varying the size of each "can", as shown in the figure below, will also yield un
 
 Heavier characters would have the opposite configuration.
 
-[ Image attached  ]
+[ Image attached https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/100/fat_cans.jpg ]
 
 A shapely woman will have their shoulder and hips at 45 degree angles counter to each other, with the hips larger than the shoulders, as shown below:
 
