@@ -92,7 +92,7 @@ The "two cans" approach takes into account that each cylinder has two degrees of
 
 The best dynamic poses involve a combination of both lateral and vertical positions for both "cans". By adding a twist to your character's pose, your drawing gains more dimension.
 
-[ Image attached  ]
+[ Image attached https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/100/cans_twist.jpg ]
 
 In addition to rotating both "cans", you can also adjust their relative proximity to one another.
 
