@@ -40,6 +40,12 @@ The line of action goes hand in hand with making a character's pose easier to re
 
 The line of action is a simple curved line that evokes movement. Avoid making your line of action S-shaped or straight - it will hinder the overall force and make the resulting pose look less dynamic.
 
-[ Image attached  ]
+[ Image attached https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/100/2_line_of_action_S_curve.jpg ]
+
+Below are examples of poses utilizing a strong line of action. Note that even though the character may be standing "still", there is still an attitude being projected, simply by having the torso coincide with the line of action.
+
+When drawing from life, find the line of action - note it down, and then proceed to exaggerate it. It'll make the resulting pose feel more "alive" and less stiff.
+
+[ Image attched  ]
 
 
