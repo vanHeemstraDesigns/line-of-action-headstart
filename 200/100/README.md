@@ -26,6 +26,8 @@ http://vector.tutsplus.com/tutorials/illustration/quick-tip-the-line-of-action-m
 
 ***The Line of Action, Make Your Character Poses More Dynamic!***
 
+By [Krishna M Sadasivam](https://tutsplus.com/authors/krishna-m-sadasivam)
+
 The line of action is a key ingredient to making your character's poses look more dynamic. In this guide, we will explore what the line of action is and how it can be used to make your character poses come alive.
 
 ### What is the Line of Action
@@ -57,4 +59,12 @@ In the example below, we can see that as the line of action is made more horizon
 To give our character poses even more variety, we can twist the torso against the hips. By "breaking the plane", we automatically add depth to a pose. Coupled with rendering foreshortened elements of the body, the possibilities are endless.
 
 [ Image attached https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/100/6_twist_line_of_action.jpg ]
+
+Other tutorials by this author:
+
+- [Learn to Draw Dynamic Comic Characters using The "Two Can" Technique!](http://design.tutsplus.com/articles/learn-to-draw-dynamic-comic-characters-using-the-two-can-technique--vector-6034?_ga=2.141146482.1131517401.1603372015-1326149362.1603372015)
+
+- [Quick Tip: Brainstorming Head Design, a Focus on the Eye Line](http://design.tutsplus.com/articles/quick-tip-brainstorming-head-design-a-focus-on-the-eye-line--vector-5436?_ga=2.141146482.1131517401.1603372015-1326149362.1603372015)
+
+- [Create a Custom Illustration with Sketchbook Pro](http://design.tutsplus.com/tutorials/create-a-custom-illustration-with-sketchbook-pro--vector-5351?_ga=2.244972741.1131517401.1603372015-1326149362.1603372015)
 
