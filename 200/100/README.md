@@ -6,7 +6,7 @@ Whether from life or from imagination, the first mark made in most figure drawin
 
 When drawing from life, begin by finding the line of action and noting it down. If you wish, you may even exaggerate the curve of the line to make the pose feel less stiff. You should be able to identify and record a pose's line of action in the first 2 seconds of your drawing.
 
-Here are some possible lines of action. Note that they are curves, but they are not S shaped or squiggles. 
+Here are some possible lines of action. Note that they are ***curves***, but they are ***not S shaped or squiggles***. 
 
 [ Image attached https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/100/LoA-1536478097.gif ]
 
