@@ -120,4 +120,6 @@ Furthermore, you can extend the technique to include foreshortening, where one o
 
 [ Image attached   ]
 
+Below are examples of poses created using the "two can" technique along with the line of action. If using photo or live reference, make it a point to "find the cans" before moving on to adding details.
 
+[ Image attached   ]
