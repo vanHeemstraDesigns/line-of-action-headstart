@@ -82,6 +82,20 @@ Start off by drawing the line of action. Next, draw two cylinders, one at either
 
 [ Image attached https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/100/cans_plus_loa.jpg ]
 
+[ Image attached https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/100/using_cans_character.jpg ]
+
+### Creating a Dynamic Pose
+
+The "two cans" approach takes into account that each cylinder has two degrees of movement: lateral and vertical. In the lateral approach, both the shoulders and pelvis can rotate approximately 45 degrees around the line of action. In the vertical approach, the shoulders and pelvis can tilt up or down by roughly 45 degrees.
+
+[ Image attached  ]
+
+The best dynamic poses involve a combination of both lateral and vertical positions for both "cans". By adding a twist to your character's pose, your drawing gains more dimension.
+
+[ Image attached  ]
+
+In addition to rotating both "cans", you can also adjust their relative proximity to one another.
+
 [ Image attached  ]
 
 
