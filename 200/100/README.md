@@ -112,7 +112,12 @@ Heavier characters would have the opposite configuration.
 
 A shapely woman will have their shoulder and hips at 45 degree angles counter to each other, with the hips larger than the shoulders, as shown below:
 
-[ Image attached  ]
+[ Image attached https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/100/women_cans.jpg ]
 
+### Adding Depth and Perspective
+
+Furthermore, you can extend the technique to include foreshortening, where one of the "cans" can be drawn much larger with respect to the other to establish a greater sense of depth.
+
+[ Image attached   ]
 
 
