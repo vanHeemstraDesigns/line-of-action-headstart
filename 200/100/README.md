@@ -68,3 +68,22 @@ Other tutorials by this author:
 
 - [Create a Custom Illustration with Sketchbook Pro](http://design.tutsplus.com/tutorials/create-a-custom-illustration-with-sketchbook-pro--vector-5351?_ga=2.244972741.1131517401.1603372015-1326149362.1603372015)
 
+## Two Can Technique
+
+Based on "Learn to Draw Dynamic Comic Characters using The "Two Can" Technique!" at https://design.tutsplus.com/articles/learn-to-draw-dynamic-comic-characters-using-the-two-can-technique--vector-6034?_ga=2.141122034.1131517401.1603372015-1326149362.1603372015
+
+Just like the line of action, the "two can" technique is another key ingredient in making exciting, dynamic character poses. In this guide, we will build on the line of action by adding the "two can" technique to create your comic character poses.
+
+### What is the "Two Can" Technique?
+
+The "two can" technique consists of treating both the shoulders and pelvis as cylinders, each placed at either end of the established line of action.
+
+Start off by drawing the line of action. Next, draw two cylinders, one at either end on the line of action.
+
+[ Image attached  ]
+
+[ Image attached  ]
+
+
+
+
