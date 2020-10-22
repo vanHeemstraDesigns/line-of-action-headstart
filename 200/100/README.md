@@ -1,1 +1,25 @@
-# 100 Gesture basics #1: Line of action
+# 100 Gesture Basics #1: Line of Action
+
+Based on "Gesture Basisc #1: Line of Action" at https://line-of-action.com/article/gesture-basics-1-line-of-action/
+
+Whether from life or from imagination, the first mark made in most figure drawings is the line of action. You can think of the line of action as an imaginary line that runs down the spine. The more curve you put into that line, the more attitude, force and/or movement the image will communicate to your viewers.
+
+When drawing from life, begin by finding the line of action and noting it down. If you wish, you may even exaggerate the curve of the line to make the pose feel less stiff. You should be able to identify and record a pose's line of action in the first 2 seconds of your drawing.
+
+Here are some possible lines of action. Note that they are curves, but they are not S shaped or squiggles. 
+
+[ Image attached ]
+
+Some artists make two lines of action -- one for the body, and one for the arms. Either way, it is an essential tool for starting your image with an overall assessment of the pose and direction you wish to communicate, before getting bogged down in other details. 
+
+[ Image attached ]
+
+Once you have established the line of action, it becomes easier to compose dynamic, expressive poses by "hanging" the torso and hips along this line.
+
+More on lines of action:
+
+http://vector.tutsplus.com/tutorials/illustration/quick-tip-the-line-of-action-make-your-character-poses-more-dynamic/
+
+Other Resources:
+
+https://posespace.com
