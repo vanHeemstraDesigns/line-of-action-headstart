@@ -8,11 +8,11 @@ When drawing from life, begin by finding the line of action and noting it down. 
 
 Here are some possible lines of action. Note that they are curves, but they are not S shaped or squiggles. 
 
-[ Image attached ]
+[ Image attached https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/100/LoA-1536478097.gif ]
 
 Some artists make two lines of action -- one for the body, and one for the arms. Either way, it is an essential tool for starting your image with an overall assessment of the pose and direction you wish to communicate, before getting bogged down in other details. 
 
-[ Image attached ]
+[ Image attached  ]
 
 Once you have established the line of action, it becomes easier to compose dynamic, expressive poses by "hanging" the torso and hips along this line.
 
