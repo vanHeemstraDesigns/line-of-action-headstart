@@ -46,6 +46,15 @@ Below are examples of poses utilizing a strong line of action. Note that even th
 
 When drawing from life, find the line of action - note it down, and then proceed to exaggerate it. It'll make the resulting pose feel more "alive" and less stiff.
 
-[ Image attched  ]
+[ Image attached https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/100/3_spine_line_of_action.jpg ]
 
+[ Image attached https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/100/4_spine_line_of_action.jpg ]
+
+In the example below, we can see that as the line of action is made more horizontal, the character's run appears to be getting faster.
+
+[ Image attached https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/100/5_line_of_action_run.jpg ]
+
+To give our character poses even more variety, we can twist the torso against the hips. By "breaking the plane", we automatically add depth to a pose. Coupled with rendering foreshortened elements of the body, the possibilities are endless.
+
+[ Image attached https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/100/6_twist_line_of_action.jpg ]
 
