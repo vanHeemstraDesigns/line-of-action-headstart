@@ -29,10 +29,13 @@ Regular gesture drawing can be a fantastic way to increase your artistic skill. 
 ### Detailed Instructions
 
 - Gesture basics #1: Line of action
+
 See [README.md](./200/100/README.md)
 
 - Gesture basics #2: Head, ribcage and pelvis
+
 See [README.md](./200/200/README.md)
 
 - Gesture basics #3: Joints
+
 See [README.md](./200/300/README.md)
