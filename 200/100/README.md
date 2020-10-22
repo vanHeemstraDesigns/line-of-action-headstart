@@ -123,3 +123,7 @@ Furthermore, you can extend the technique to include foreshortening, where one o
 Below are examples of poses created using the "two can" technique along with the line of action. If using photo or live reference, make it a point to "find the cans" before moving on to adding details.
 
 [ Image attached https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/100/perspective_cans2.jpg ]
+
+### Conclusion
+
+The "two can" technique, coupled with an expressive line of action, can add more variety to your character designs as well as serve to make your character poses more dynamic and easier to read. It's a flexible technique that can be applied to any drawing style. I hope you've found this technique useful!
