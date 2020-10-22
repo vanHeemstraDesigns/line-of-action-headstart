@@ -80,7 +80,7 @@ The "two can" technique consists of treating both the shoulders and pelvis as cy
 
 Start off by drawing the line of action. Next, draw two cylinders, one at either end on the line of action.
 
-[ Image attached  ]
+[ Image attached https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/100/cans_plus_loa.jpg ]
 
 [ Image attached  ]
 
