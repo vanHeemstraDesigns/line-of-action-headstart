@@ -118,8 +118,8 @@ A shapely woman will have their shoulder and hips at 45 degree angles counter to
 
 Furthermore, you can extend the technique to include foreshortening, where one of the "cans" can be drawn much larger with respect to the other to establish a greater sense of depth.
 
-[ Image attached   ]
+[ Image attached https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/100/perspective_cans1.jpg ]
 
 Below are examples of poses created using the "two can" technique along with the line of action. If using photo or live reference, make it a point to "find the cans" before moving on to adding details.
 
-[ Image attached   ]
+[ Image attached https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/100/perspective_cans2.jpg ]
