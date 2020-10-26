@@ -2,7 +2,7 @@
 
 Based on "Gesture Basics #2: Head, ribcage and pelvis" at https://line-of-action.com/article/gesture-basics-2-torso-and-hips/
 
-Once you have established the line of action (See Gesture basics #1) you are ready to place the three major ovals of the body: The head, ribcage and pelvis. Noting their locations should take you 5 to 10 seconds.
+Once you have established the line of action (See [Gesture Basics #1](https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/100/README.md)) you are ready to place the three major ovals of the body: The head, ribcage and pelvis. Noting their locations should take you 5 to 10 seconds.
 
 [ Image attched - https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/200/LoA-1536478137.gif ]
 
