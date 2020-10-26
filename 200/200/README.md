@@ -4,15 +4,15 @@ Based on "Gesture Basics #2: Head, ribcage and pelvis" at https://line-of-action
 
 Once you have established the line of action (See Gesture basics #1) you are ready to place the three major ovals of the body: The head, ribcage and pelvis. Noting their locations should take you 5 to 10 seconds.
 
-[ Image attched -  ]
+[ Image attched - https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/200/LoA-1536478137.gif ]
 
 When viewed from the outside, it's harder to see the underlying skeletal structure, and beginners are often tricked into thinking of the human trunk as being one shape like so:
 
-[ Image attched -  ]
+[ Image attched - https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/200/LoA-1536478112.gif ]
 
 But in fact, keeping the rib cage and the pelvis separate is critical to accurately recording a pose and allows for a much broader and more convincing range of expression. The rib cage and pelvis can each bend, flex and twist independently of one another, allowing for interesting twists like this:
 
-[ Image attched -  ]
+[ Image attched - https://github.com/vanHeemstraDesigns/line-of-action-headstart/blob/main/200/200/LoA-1536478098.gif ]
 
 This image has tilt lines on it, that clearly establish the angle of both torso and pelvis. You may wish to note these down as part of your process of recording the underlying positions of the three ovals. Personally, I find that if I am trying to create a pose with a great deal of energy or tension, clearly defining the angles of the body is essential.
 
